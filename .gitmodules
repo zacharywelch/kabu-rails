@@ -1,0 +1,3 @@
+[submodule "kabu"]
+	path = kabu
+	url = https://cagit.careerbuilder.com/CorpAppsCB/kabu.git
